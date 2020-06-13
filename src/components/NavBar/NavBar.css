@@ -1,0 +1,26 @@
+ul li {
+    display:inline;
+    padding: 0%;
+}
+
+button {
+    background-color: #5cdb95;
+    padding: 0%;
+    border: none;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    outline: none;
+}
+button:hover {
+    background-color: #8ee4af;
+}
+button:focus {
+    background-color: #EDF5E1;
+}
+
+nav {
+    background-color: #5cdb95;
+    padding: 0%;
+}
